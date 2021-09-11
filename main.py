@@ -335,7 +335,7 @@ def banner():
  |_____/ \___|_| |_| |_|\__,_|_| |_|_|\__|\__, |    |_|\___/ \___/|_|___/
                                            __/ |                         
                                           |___/                          
-               Developed by Semanity#0001 and theowogod#1010
+               Developed by Zex#2222 and theowogod#1010
           """ + Fore.RESET)
 
 if __name__ == "__main__":
